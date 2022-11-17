@@ -52,7 +52,7 @@ numbers = numbers
 print(numbers)
 
 //result - [0, 1, 2, 4, 6, 7, 9, 10, 11]
-
+____________________________________________________________________________
 
 Remove elements using element value of another array
 
@@ -64,6 +64,8 @@ let arrayResult = numbers.filter { element in
 print(arrayResult)
 
 //result - [0, 1, 2, 4, 6, 7, 9, 10, 11]
+____________________________________________________________________________
+
 Arrays of strings
 
 let arrayLetters = ["a", "b", "c", "d", "e", "f", "g", "h", "i"]
