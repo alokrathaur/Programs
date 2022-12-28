@@ -1,4 +1,4 @@
-# Programs with Login in Swift
+# Programs in Swift
 
 Find 2nd larget number in an integer array in swift .
 
